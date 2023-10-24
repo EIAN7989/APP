@@ -1,6 +1,6 @@
 # Portable
 
-## 步骤如下：
+## Portable 软件创建开机自启动步骤如下：
 
 - 1.win+R打开运行管理窗口然后输入shell:startup；
 
