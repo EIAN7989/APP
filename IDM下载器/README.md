@@ -2,7 +2,7 @@
 
 - 官方：https://www.internetdownloadmanager.com
 
-# IDM 激活脚本
+# IDM 激活脚本（激活一次，后续无需激活）
 _________________________________
 
 ###   激活：
