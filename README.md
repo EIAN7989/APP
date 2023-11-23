@@ -6,7 +6,8 @@
 
 - 2.然后以快捷方式粘贴到打开的目录之下；
 
-- tips：右键更多选项，这里以快捷方式粘贴软件运行时的文件路径如：（D:\TrafficMonitor\TrafficMonitor_V1.83_x64）
+- tips：右键更多选项，这里以快捷方式粘贴软件运行时的文件路径
+- 例如：（D:\TrafficMonitor\TrafficMonitor_V1.83_x64）
 ---
 - **电视直播源**
 ```
